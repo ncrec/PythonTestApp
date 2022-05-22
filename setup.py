@@ -2,7 +2,7 @@ import os
 from setuptools import setup, find_packages
 
 setup(name="ncrec_test2",
-      version="1.1.0",
+      version="1.1.1",
       python_requires='>=3.4',
       description="Test API client",
       author="Ncrec",
